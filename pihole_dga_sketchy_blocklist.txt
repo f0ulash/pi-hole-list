@@ -1151,3 +1151,8 @@
 0.0.0.0 user-sync.fwmrm.net
 0.0.0.0 wd.adcolony.com
 0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 api.okina.fr
+0.0.0.0 example.lan
+0.0.0.0 example.org
+0.0.0.0 open.demonii.com
+0.0.0.0 zer0day.ch
