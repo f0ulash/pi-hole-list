@@ -92,7 +92,6 @@
 0.0.0.0 ewdbncrtwe.com
 0.0.0.0 ewdhzytwfkpq.com
 0.0.0.0 eycnmitampt.com
-0.0.0.0 eztv.tf
 0.0.0.0 fafeyrfqyxwivk.com
 0.0.0.0 fbgbskzvbvzokr.com
 0.0.0.0 fbwlsiqcdsszm.com
@@ -239,7 +238,6 @@
 0.0.0.0 lhprbxdlreffqi.com
 0.0.0.0 lidinbczm.com
 0.0.0.0 liizflvgesra.com
-0.0.0.0 limetorrents.proxyninja.org
 0.0.0.0 ljgwcsfopfmhok.com
 0.0.0.0 llxmbjgtshhd.com
 0.0.0.0 lmqrawimfqccph.com
@@ -253,7 +251,6 @@
 0.0.0.0 lwzdabfg.com
 0.0.0.0 lzblmscveiqb.com
 0.0.0.0 lzpymucz.com
-0.0.0.0 magnetcatcat.com
 0.0.0.0 mcrfungk.com
 0.0.0.0 meoqrkio.com
 0.0.0.0 misdlgenddd.com
@@ -268,7 +265,6 @@
 0.0.0.0 napbuskaafntph.com
 0.0.0.0 natpeiezp.com
 0.0.0.0 ndechbcg.com
-0.0.0.0 nekobt.to
 0.0.0.0 ngxrirfmawbd.com
 0.0.0.0 njibcaxlfwh.com
 0.0.0.0 njnxguvbxlvbtj.com
@@ -284,9 +280,7 @@
 0.0.0.0 ntwkbc42.com
 0.0.0.0 nxlqljuasi.com
 0.0.0.0 nxuweknomqv.com
-0.0.0.0 nyaa.si
 0.0.0.0 nynlbkolof.com
-0.0.0.0 nzbfinder.ws
 0.0.0.0 nzfqpxlllezqke.com
 0.0.0.0 nztacpns.com
 0.0.0.0 obkkuumfesmhai.com
@@ -378,9 +372,7 @@
 0.0.0.0 rybbhembyqtm.com
 0.0.0.0 sbtpdwuykncl.com
 0.0.0.0 shgoeftsghm.com
-0.0.0.0 sktorrent.org
 0.0.0.0 smniumcylko.com
-0.0.0.0 solidtorrents.eu
 0.0.0.0 spzzsykjwgplod.com
 0.0.0.0 sqgpykpbrru.com
 0.0.0.0 srajdwwglxpzso.com
@@ -401,11 +393,9 @@
 0.0.0.0 tevvbgbjiv.com
 0.0.0.0 tfzbllnojkzc.com
 0.0.0.0 tgnoppvxz.com
-0.0.0.0 therarbg.to
 0.0.0.0 tjiykulvahlv.com
 0.0.0.0 tjmucsni.com
 0.0.0.0 tlwllgauzqqnz.com
-0.0.0.0 torrentcore.xyz
 0.0.0.0 tqjaqgmgbv.com
 0.0.0.0 trdrjqtjik.com
 0.0.0.0 trkedswsf.com
@@ -736,7 +726,6 @@
 0.0.0.0 www.meoqrkio.com
 0.0.0.0 www.misdlgenddd.com
 0.0.0.0 www.miwxoqcbiswmx.com
-0.0.0.0 www.mixtapetorrent.com
 0.0.0.0 www.mizckufx.com
 0.0.0.0 www.mjzeexubcswjka.com
 0.0.0.0 www.mloearytfxebml.com
@@ -765,7 +754,6 @@
 0.0.0.0 www.nxlqljuasi.com
 0.0.0.0 www.nxuweknomqv.com
 0.0.0.0 www.nynlbkolof.com
-0.0.0.0 www.nzbnoob.com
 0.0.0.0 www.nzfqpxlllezqke.com
 0.0.0.0 www.nztacpns.com
 0.0.0.0 www.obkkuumfesmhai.com
@@ -937,7 +925,6 @@
 0.0.0.0 www.uqladyjswq.com
 0.0.0.0 www.urionlpqzapxx.com
 0.0.0.0 www.urvgmsrrkp.com
-0.0.0.0 www.usenet-crawler.com
 0.0.0.0 www.uskdkvjda.com
 0.0.0.0 www.usktjnynyuzssl.com
 0.0.0.0 www.uurtdukslpmby.com
